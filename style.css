@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pjStats {
+	padding:1em;
+    background-color: greenyellow;
+}
+
+
+.monsterStats {
+	padding:1em;
+    background-color: orange;
+}
